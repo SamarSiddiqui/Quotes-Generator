@@ -15,7 +15,8 @@ body{
 
 .mainContainer{
  position: absolute;
- border: 2px solid rebeccapurple;
+ height: 310px;
+ border: 5px solid yellow;
  top: 50%;
  left: 50%;
  transform: translate(-50%,-50%);
@@ -23,8 +24,9 @@ body{
 
 .quoteBox{
     width: 600px;
-    height: 400px;
+    height: 250px;
     background-color: antiquewhite;
+    border: 3px solid fuchsia;
 
 }
 
@@ -40,11 +42,11 @@ text-align: center;
 }
 
 .quotes{
-width: 500px;
-height: 250px;
+width: 550px;
+height: 120px;
 margin: auto;
-
 border: 4px solid red;
+text-align: center;
 }
 
 .author{
@@ -56,7 +58,7 @@ border: 4px solid red;
 
 .clickBox{
     width: 250px;
-    /* height: 50px; */
+    height: 50px;
     margin: auto;    
-    border: 1px solid blue; 
+    border: 1px solid rgb(116, 174, 44); 
 }

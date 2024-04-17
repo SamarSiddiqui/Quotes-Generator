@@ -1,209 +1,290 @@
 {
-	"quotes": [
-
-{
-       "quote":"Life isn’t about getting and having, it’s about giving and being.","author":"Kevin Kruse"},
-{
-       "quote":"Whatever the mind of man can conceive and believe, it can achieve.","author":"Napoleon Hill"},
-{
-       "quote":"Strive not to be a success, but rather to be of value.","author":"Albert Einstein"},
-{
-       "quote":"Two roads diverged in a wood, and I—I took the one less traveled by, And that has made all the difference.","author":"Robert Frost"},
-{
-       "quote":"I attribute my success to this: I never gave or took any excuse.","author":"Florence Nightingale"},
-{
-       "quote":"You miss 100% of the shots you don’t take.","author":"Wayne Gretzky"},
-{
-       "quote":"I’ve missed more than 9000 shots in my career. I’ve lost almost 300 games. 26 times I’ve been trusted to take the game winning shot and missed. I’ve failed over and over and over again in my life. And that is why I succeed.","author":"Michael Jordan"},
-{
-       "quote":"The most difficult thing is the decision to act, the rest is merely tenacity.","author":"Amelia Earhart"},
-{
-       "quote":"Every strike brings me closer to the next home run.","author":"Babe Ruth"},
-{
-       "quote":"Definiteness of purpose is the starting point of all achievement.","author":"W. Clement Stone"},
-{
-       "quote":"We must balance conspicuous consumption with conscious capitalism.","author":"Kevin Kruse"},
-{
-       "quote":"Life is what happens to you while you’re busy making other plans.","author":"John Lennon"},
-{
-       "quote":"We become what we think about.","author":"Earl Nightingale"},
-{
-       "quote":"Twenty years from now you will be more disappointed by the things that you didn’t do than by the ones you did do, so throw off the bowlines, sail away from safe harbor, catch the trade winds in your sails.  Explore, Dream, Discover.","author":"Mark Twain"},
-{
-       "quote":"Life is 10% what happens to me and 90% of how I react to it.","author":"Charles Swindoll"},
-{
-       "quote":"The most common way people give up their power is by thinking they don’t have any.","author":"Alice Walker"},
-{
-       "quote":"The mind is everything. What you think you become.","author":"Buddha"},
-{
-       "quote":"The best time to plant a tree was 20 years ago. The second best time is now.","author":"Chinese Proverb"},
-{
-       "quote":"An unexamined life is not worth living.","author":"Socrates"},
-{
-       "quote":"Eighty percent of success is showing up.","author":"Woody Allen"},
-{
-       "quote":"Your time is limited, so don’t waste it living someone else’s life.","author":"Steve Jobs"},
-{
-       "quote":"Winning isn’t everything, but wanting to win is.","author":"Vince Lombardi"},
-{
-       "quote":"I am not a product of my circumstances. I am a product of my decisions.","author":"Stephen Covey"},
-{
-       "quote":"Every child is an artist.  The problem is how to remain an artist once he grows up.","author":"Pablo Picasso"},
-{
-       "quote":"You can never cross the ocean until you have the courage to lose sight of the shore.","author":"Christopher Columbus"},
-{
-       "quote":"I’ve learned that people will forget what you said, people will forget what you did, but people will never forget how you made them feel.","author":"Maya Angelou"},
-{
-       "quote":"Either you run the day, or the day runs you.","author":"Jim Rohn"},
-{
-       "quote":"Whether you think you can or you think you can’t, you’re right.","author":"Henry Ford"},
-{
-       "quote":"The two most important days in your life are the day you are born and the day you find out why.","author":"Mark Twain"},
-{
-       "quote":"Whatever you can do, or dream you can, begin it.  Boldness has genius, power and magic in it.","author":"Johann Wolfgang von Goethe"},
-{
-       "quote":"The best revenge is massive success.","author":"Frank Sinatra"},
-{
-       "quote":"People often say that motivation doesn’t last. Well, neither does bathing.  That’s why we recommend it daily.","author":"Zig Ziglar"},
-{
-       "quote":"Life shrinks or expands in proportion to one’s courage.","author":"Anais Nin"},
-{
-       "quote":"If you hear a voice within you say “you cannot paint,” then by all means paint and that voice will be silenced.","author":"Vincent Van Gogh"},
-{
-       "quote":"There is only one way to avoid criticism: do nothing, say nothing, and be nothing.","author":"Aristotle"},
-{
-       "quote":"Ask and it will be given to you; search, and you will find; knock and the door will be opened for you.","author":"Jesus"},
-{
-       "quote":"The only person you are destined to become is the person you decide to be.","author":"Ralph Waldo Emerson"},
-{
-       "quote":"Go confidently in the direction of your dreams.  Live the life you have imagined.","author":"Henry David Thoreau"},
-{
-       "quote":"When I stand before God at the end of my life, I would hope that I would not have a single bit of talent left and could say, I used everything you gave me.","author":"Erma Bombeck"},
-{
-       "quote":"Few things can help an individual more than to place responsibility on him, and to let him know that you trust him.","author":"Booker T. Washington"},
-{
-       "quote":"Certain things catch your eye, but pursue only those that capture the heart.","author":" Ancient Indian Proverb"},
-{
-       "quote":"Believe you can and you’re halfway there.","author":"Theodore Roosevelt"},
-{
-       "quote":"Everything you’ve ever wanted is on the other side of fear.","author":"George Addair"},
-{
-       "quote":"We can easily forgive a child who is afraid of the dark; the real tragedy of life is when men are afraid of the light.","author":"Plato"},
-{
-       "quote":"Teach thy tongue to say, “I do not know,” and thous shalt progress.","author":"Maimonides"},
-{
-       "quote":"Start where you are. Use what you have.  Do what you can.","author":"Arthur Ashe"},
-{
-       "quote":"When I was 5 years old, my mother always told me that happiness was the key to life.  When I went to school, they asked me what I wanted to be when I grew up.  I wrote down ‘happy’.  They told me I didn’t understand the assignment, and I told them they didn’t understand life.","author":"John Lennon"},
-{
-       "quote":"Fall seven times and stand up eight.","author":"Japanese Proverb"},
-{
-       "quote":"When one door of happiness closes, another opens, but often we look so long at the closed door that we do not see the one that has been opened for us.","author":"Helen Keller"},
-{
-       "quote":"Everything has beauty, but not everyone can see.","author":"Confucius"},
-{
-       "quote":"How wonderful it is that nobody need wait a single moment before starting to improve the world.","author":"Anne Frank"},
-{
-       "quote":"When I let go of what I am, I become what I might be.","author":"Lao Tzu"},
-{
-       "quote":"Life is not measured by the number of breaths we take, but by the moments that take our breath away.","author":"Maya Angelou"},
-{
-       "quote":"Happiness is not something readymade.  It comes from your own actions.","author":"Dalai Lama"},
-{
-       "quote":"If you’re offered a seat on a rocket ship, don’t ask what seat! Just get on.","author":"Sheryl Sandberg"},
-{
-       "quote":"First, have a definite, clear practical ideal; a goal, an objective. Second, have the necessary means to achieve your ends; wisdom, money, materials, and methods. Third, adjust all your means to that end.","author":"Aristotle"},
-{
-       "quote":"If the wind will not serve, take to the oars.","author":"Latin Proverb"},
-{
-       "quote":"You can’t fall if you don’t climb.  But there’s no joy in living your whole life on the ground.","author":"Unknown"},
-{
-       "quote":"We must believe that we are gifted for something, and that this thing, at whatever cost, must be attained.","author":"Marie Curie"},
-{
-       "quote":"Too many of us are not living our dreams because we are living our fears.","author":"Les Brown"},
-{
-       "quote":"Challenges are what make life interesting and overcoming them is what makes life meaningful.","author":"Joshua J. Marine"},
-{
-       "quote":"If you want to lift yourself up, lift up someone else.","author":"Booker T. Washington"},
-{
-       "quote":"I have been impressed with the urgency of doing. Knowing is not enough; we must apply. Being willing is not enough; we must do.","author":"Leonardo da Vinci"},
-{
-       "quote":"Limitations live only in our minds.  But if we use our imaginations, our possibilities become limitless.","author":"Jamie Paolinetti"},
-{
-       "quote":"You take your life in your own hands, and what happens? A terrible thing, no one to blame.","author":"Erica Jong"},
-{
-       "quote":"What’s money? A man is a success if he gets up in the morning and goes to bed at night and in between does what he wants to do.","author":"Bob Dylan"},
-{
-       "quote":"I didn’t fail the test. I just found 100 ways to do it wrong.","author":"Benjamin Franklin"},
-{
-       "quote":"In order to succeed, your desire for success should be greater than your fear of failure.","author":"Bill Cosby"},
-{
-       "quote":"A person who never made a mistake never tried anything new.","author":" Albert Einstein"},
-{
-       "quote":"The person who says it cannot be done should not interrupt the person who is doing it.","author":"Chinese Proverb"},
-{
-       "quote":"There are no traffic jams along the extra mile.","author":"Roger Staubach"},
-{
-       "quote":"It is never too late to be what you might have been.","author":"George Eliot"},
-{
-       "quote":"You become what you believe.","author":"Oprah Winfrey"},
-{
-       "quote":"I would rather die of passion than of boredom.","author":"Vincent van Gogh"},
-{
-       "quote":"A truly rich man is one whose children run into his arms when his hands are empty.","author":"Unknown"},
-{
-       "quote":"It is not what you do for your children, but what you have taught them to do for themselves, that will make them successful human beings.","author":"Ann Landers"},
-{
-       "quote":"If you want your children to turn out well, spend twice as much time with them, and half as much money.","author":"Abigail Van Buren"},
-{
-       "quote":"Build your own dreams, or someone else will hire you to build theirs.","author":"Farrah Gray"},
-{
-       "quote":"The battles that count aren’t the ones for gold medals. The struggles within yourself–the invisible battles inside all of us–that’s where it’s at.","author":"Jesse Owens"},
-{
-       "quote":"Education costs money.  But then so does ignorance.","author":"Sir Claus Moser"},
-{
-       "quote":"I have learned over the years that when one’s mind is made up, this diminishes fear.","author":"Rosa Parks"},
-{
-       "quote":"It does not matter how slowly you go as long as you do not stop.","author":"Confucius"},
-{
-       "quote":"If you look at what you have in life, you’ll always have more. If you look at what you don’t have in life, you’ll never have enough.","author":"Oprah Winfrey"},
-{
-       "quote":"Remember that not getting what you want is sometimes a wonderful stroke of luck.","author":"Dalai Lama"},
-{
-       "quote":"You can’t use up creativity.  The more you use, the more you have.","author":"Maya Angelou"},
-{
-       "quote":"Dream big and dare to fail.","author":"Norman Vaughan"},
-{
-       "quote":"Our lives begin to end the day we become silent about things that matter.","author":"Martin Luther King Jr."},
-{
-       "quote":"Do what you can, where you are, with what you have.","author":"Teddy Roosevelt"},
-{
-       "quote":"If you do what you’ve always done, you’ll get what you’ve always gotten.","author":"Tony Robbins"},
-{
-       "quote":"Dreaming, after all, is a form of planning.","author":"Gloria Steinem"},
-{
-       "quote":"It’s your place in the world; it’s your life. Go on and do all you can with it, and make it the life you want to live.","author":"Mae Jemison"},
-{
-       "quote":"You may be disappointed if you fail, but you are doomed if you don’t try.","author":"Beverly Sills"},
-{
-       "quote":"Remember no one can make you feel inferior without your consent.","author":"Eleanor Roosevelt"},
-{
-       "quote":"Life is what we make it, always has been, always will be.","author":"Grandma Moses"},
-{
-       "quote":"The question isn’t who is going to let me; it’s who is going to stop me.","author":"Ayn Rand"},
-{
-       "quote":"When everything seems to be going against you, remember that the airplane takes off against the wind, not with it.","author":"Henry Ford"},
-{
-       "quote":"It’s not the years in your life that count. It’s the life in your years.","author":"Abraham Lincoln"},
-{
-       "quote":"Change your thoughts and you change your world.","author":"Norman Vincent Peale"},
-{
-       "quote":"Either write something worth reading or do something worth writing.","author":"Benjamin Franklin"},
-{
-       "quote":"Nothing is impossible, the word itself says, “I’m possible!”","author":"–Audrey Hepburn"},
-{
-       "quote":"The only way to do great work is to love what you do.","author":"Steve Jobs"},
-{
-       "quote":"If you can dream it, you can achieve it.","author":"Zig Ziglar"}
-]
-}
+       "shayri": [
+         {"sher": "Makii.n jab nii.nd ke saa.e me.n sustaane lage.n \n 'taabish' safar karte hai.n bastii ke makaa.n aahista aahista", "shayar": "Abbas Tabish"},
+         {"sher": "Mai.n tire dar kaa bhikaarii tuu mire dar kaa faqiir \n aadmii is daur me.n KHuddaar ho saktaa nahii.n", "shayar": "Iqbal Sajid"},
+         {"sher": "Pichhle baras bhii bo.ii thii.n lafzo.n kii khetiyaa.n \n ab ke baras bhii is ke sivaa kuchh nahii.n kiyaa", "shayar": "Iqbal Sajid"},
+         {"sher": "Mujh se chhu.Dvaa.e mire saare usuul us ne 'zafar' \n kitnaa chaalaak thaa maaraa mujhe tanhaa kar ke", "shayar": "Zafar Iqbal"},
+         {"sher": "Ik nazar kaa fasaana hai duniyaa \n sau kahaanii hai ik kahaanii se", "shayar": "Nushur Wahidi"},
+         {"sher": "Ba.Dh ke tuufaan ko aaGosh me.n le le apnii \n Duubne vaale tire haath se saahil to gayaa", "shayar": "Abdul Hamid"},
+         {"sher": "Baarish sharaab-e-arsh hai ye soch kar 'adam' \n baarish ke sab huruuf ko ulTaa ke pii gayaa", "shayar": "Abdul Hamid"},
+         {"sher": "Raat dil ko thaa sahar kaa intizaar \n ab ye Gam hai kyuu.n saveraa ho gayaa", "shayar": "Salam Machhli"},
+         {"sher": "Tum sharaab pii kar bhii hosh-mand rahte ho \n jaane kyuu.n mujhe aisii mai-kashii nahii.n aa.ii", "shayar": "Salam Machhli"},
+         {"sher": "Tire maathe pe ye aa.nchal bahut hii KHuub hai lekin \n tuu is aa.nchal se ik parcham banaa letii to achchhaa thaa", "shayar": "Asrarul Haq Majaz"},
+         {"sher": "Vo aa.e ghar me.n hamaare KHudaa kii qudrat hai \n kabhii ham un ko kabhii apne ghar ko dekhte hai.n", "shayar": "Mirza Ghalib"},
+         {"sher": "Kah rahaa hai shor-e-dariyaa se samundar kaa sukuut \n jis kaa jitnaa zarf hai utnaa hii vo KHaamosh hai", "shayar": "Natiq Lakhnavi"},
+         {"sher": "Gulo.n me.n ra.ng bhare baad-e-nau-bahaar chale \n chale bhii aa.o ki gulshan kaa kaarobaar chale", "shayar": "Faiz Ahmad Faiz"},
+         {"sher": "Gairo.n se kahaa tum ne Gairo.n se sunaa tum ne \n kuchh ham se kahaa hotaa kuchh ham se sunaa hotaa", "shayar": "Chiragh Hasan Hasrat"},
+         {"sher": "Yahaa.n libaas kii qiimat hai aadmii kii nahii.n \n mujhe gilaas ba.De de sharaab kam kar de", "shayar": "Bashir Badr"},
+         {"sher": "Andaaz apnaa dekhte hai.n aa.ine me.n vo \n aur ye bhii dekhte hai.n ko.ii dekhtaa na ho", "shayar": "Nizam Rampuri"},
+         {"sher": "Ye jabr bhii dekhaa hai taariiKH kii nazro.n ne \n  lamho.n ne KHataa kii thii sadiyo.n ne sazaa paa.ii", "shayar": "Muzaffar Razmi"},
+         {"sher": "Sair kar duniyaa kii Gaafil zindagaanii phir kahaa.n \n  zindagii gar kuchh rahii to ye javaanii phir kahaa.n", "shayar": "Khwaaja Meer Dard"},
+         {"sher": "Pattaa pattaa buuTaa buuTaa haal hamaaraa jaane hai \n  jaane na jaane gul hii na jaane baaG to saaraa jaane hai", "shayar": "Meer Taqi Meer"},
+         {"sher": "Inhii.n pattharo.n pe chal kar agar aa sako to aa.o \n  mire ghar ke raaste me.n ko.ii kahkashaa.n nahii.n hai", "shayar": "Mustafa Zaidi"},
+         {"sher": "Dono.n jahaan terii mohabbat me.n haar ke \n  vo jaa rahaa hai ko.ii shab-e-Gam guzaar ke", "shayar": "Faiz Ahmad Faiz"},
+         {"sher": "Zindagii zinda-dilii kaa hai naam  \n murda-dil KHaak jiyaa karte hai.n", "shayar": "Imam Bakhsh Nasikh"},
+         {"sher": "Ham ko miTaa sake ye zamaane me.n dam nahii.n \n  ham se zamaana KHud hai zamaane se ham nahii.n", "shayar": "Jigar Moradabadi"},
+         {"sher": "Hame.n bhii nii.nd aa jaa.egii ham bhii so hii jaa.e.nge \n  abhii kuchh be-qaraarii hai sitaaro tum to so jaa.o", "shayar": "Qateel Shifai"},
+         {"sher": "Maktab-e-ishq kaa dastuur niraalaa dekhaa \n us ko chhuTTii na mile jis ko sabaq yaad rahe", "shayar": "Meer Tahir Ali Rizv"},
+         {"sher": "Ishq par zor nahii.n hai ye vo aatish 'Gaalib' \n  ki lagaa.e na lage aur bujhaa.e na bane", "shayar": "Mirza Ghalib"},
+         {"sher": "Mohabbato.n me.n dikhaave kii dostii na milaa \n  agar gale nahii.n miltaa to haath bhii na milaa", "shayar": "Bashir Badr"},
+         {"sher": "Aur kyaa dekhne ko baaqii hai \n  aap se dil lagaa ke dekh liyaa", "shayar": "Faiz Ahmad Faiz"},
+         {"sher": "Shiv to nahii.n ham phir bhii ham ne duniyaa bhar ke zahr piye \n  itnii ka.DvaahaT hai mu.nh me.n kaise miiThii baat kare.n", "shayar": "Aziz Bano Darab Wafa"},
+         {"sher": "Ek muddat se KHayaalo.n me.n basaa hai jo shaKHs \n  Gaur karte hai.n to us kaa ko.ii chehra bhii nahii.n", "shayar": "Aziz Bano Darab Wafa"},
+         {"sher": "Udaasii shaam tanhaa.ii kasak yaado.n kii bechainii \n  mujhe sab sau.np kar suuraj utar jaataa hai paanii me.n", "shayar": "Aleena Itrat"},
+         {"sher": "Hijr kii raat aur puuraa chaa.nd \n  kis qadar hai ye ehtimaam Galat", "shayar": "Aleena Itra"},
+         {"sher": "Jo charaaG saare bujhaa chuke unhe.n intizaar kahaa.n rahaa \n  ye sukuu.n kaa daur-e-shadiid hai ko.ii be-qaraar kahaa.n rahaa", "shayar": "Ada Jafarey"},
+         {"sher": "Sochtaa huu.n ki us kii yaad aaKHir  \n ab kise raat bhar jagaatii hai", "shayar": "Jaun Eliya"},
+         {"sher": "Pa.Dii rahne do insaano.n kii laashe.n \n  zamii.n kaa bojh halkaa kyuu.n kare.n ham", "shayar": "Jaun Eliya"},
+         {"sher": "KHarch chalegaa ab miraa kis ke hisaab me.n bhalaa \n  sab ke liye bahut huu.n mai.n apne liye zaraa nahii.n", "shayar": "Jaun Eliya"},
+         {"sher": "Roz taaro.n ko numaa.ish me.n KHalal pa.Dtaa hai \n  chaa.nd paagal hai a.ndhere me.n nikal pa.Dtaa hai", "shayar": "Rahat Indori"},
+         {"sher": "Ik raat vo gayaa thaa jahaa.n baat rok ke \n  ab tak rukaa hu.aa huu.n vahii.n raat rok ke", "shayar": "Farhat Ehsas"},
+         {"sher": "Farishte aa kar un ke jism par KHushbuu lagaate hai.n \n  vo bachche rail ke Dibbo.n me.n jo jhaa.Duu lagaate hai.n", "shayar": "Munawwar Rana"},
+         {"sher": "Bahut nazdiik aatii jaa rahii ho \n  bichha.Dne kaa iraada kar liyaa kyaa", "shayar": "Jaun Eliya"},
+         {"sher": "Ilaaj ye hai ki majbuur kar diyaa jaa.uu.n \n  vagarna yuu.n to kisii kii nahii.n sunii mai.n ne", "shayar": "Jaun Eliya"},
+         {"sher": "Jo guzaarii na jaa sakii ham se \n  ham ne vo zindagii guzaarii hai", "shayar": "Jaun Eliya"},
+         {"sher": "Mai.n bhii bahut ajiib huu.n itnaa ajiib huu.n \n  ki bas KHud ko tabaah kar liyaa aur malaal bhii nahii.n", "shayar": "Jaun Eliya"},
+         {"sher": "Shadiid pyaas thii phir bhii chhu.aa na paanii ko \n  mai.n dekhtaa rahaa dariyaa tirii ravaanii ko", "shayar": "Shahryar"},
+         {"sher": "Vaqt aane de dikhaa de.nge tujhe ai aasmaa.n \n  ham abhii se kyuu.n bataa.e.n kyaa hamaare dil me.n hai", "shayar": "Bismil Azimabadi"},
+         {"sher": "Mohabbat karne vaale kam na ho.nge \n  tirii mahfil me.n lekin ham na ho.nge", "shayar": "Hafeez Hoshiarpuri"},
+         {"sher": "Kaa.nTe se bhii nicho.D lii Gairo.n ne buu-e-gul \n  yaaro.n ne buu-e-gul se bhii kaa.nTaa banaa diyaa", "shayar": "Aslam Kolsarii"},
+         {"sher": "Apne sab yaar kaam kar rahe hai.n \n  aur ham hai.n ki naam kar rahe hai.n", "shayar": "Jaun Eliya"},
+         {"sher": "Tumhaaraa hijr manaa luu.n agar ijaazat ho \n  mai.n dil kisii se lagaa luu.n agar ijaazat ho", "shayar": "Jaun Eliya"},
+         {"sher": "Kaun se shauq kis havas kaa nahii.n  \n dil mirii jaan tere bas kaa nahii.n", "shayar": "Jaun Eliya"},
+         {"sher": "Apnaa rishta zamii.n se hii rakkho  \n kuchh nahii.n aasmaan me.n rakkhaa", "shayar": "Jaun Eliya"},
+         {"sher": "Ye bahut Gam kii baat ho shaayad ab to \n  Gam bhii ga.nvaa chukaa huu.n mai.n", "shayar": "Jaun Eliya"},
+         {"sher": "Vo jo na aane vaalaa hai naa us se mujh ko matlab thaa \n  aane vaalo.n se kyaa matlab aate hai.n aate ho.nge", "shayar": "Jaun Eliya"},
+         {"sher": "Tum merii taraf dekhnaa chho.Do to bataa.uu.n \n  har shaKHs tumhaarii hii taraf dekh rahaa hai", "shayar": "Waseem Barelvi"},
+         {"sher": "Aate aate miraa naam saa rah gayaa \n  us ke ho.nTo.n pe kuchh kaa.nptaa rah gayaa", "shayar": "Waseem Barelvi"},
+         {"sher": "Dukh apnaa agar ham ko bataanaa nahii.n aataa \n  tum ko bhii to andaaza lagaanaa nahii.n aataa", "shayar": "Waseem Barelvi"},
+         {"sher": "Barbaad kar diyaa hame.n pardes ne magar \n  maa.n sab se kah rahii hai ki beTaa maze me.n hai", "shayar": "Munawwar Rana"},
+         {"sher": "Tum muKHaatib bhii ho qariib bhii ho \n  tum ko dekhe.n ki tum se baat kare.n", "shayar": "Firaq Gorakhpuri"},
+         {"sher": "Abhii to ghar me.n na baiThe.n kaho buzurgo.n se \n  abhii to shahr ke bachche salaam karte hai.n", "shayar": "Abbas Tabish"},
+         {"sher": "Pa.Dhte phire.nge galiyo.n me.n in reKHto.n ko log \n  muddat rahe.ngii yaad ye baate.n hamaariyaa.n", "shayar": "Meer Taqi Meer"},
+         {"sher": "Phirte hai.n 'miir' KHvaar ko.ii puuchhtaa nahii.n \n  is aashiqii me.n izzat-e-saadaat bhii ga.ii", "shayar": "Meer Taqi Meer"},
+         {"sher": "ye jo mohlat jise kahe hai.n umr \n  dekho to intizaar saa hai kuchh", "shayar": "Meer Taqi Meer"},
+         {"sher": "kahte to ho yuu.n kahte yuu.n kahte jo vo aataa \n  ye kahne kii baate.n hai.n kuchh bhii na kahaa jaataa", "shayar": "Meer Taqi Meer"},
+         {"sher": "'miir' bando.n se kaam kab niklaa \n  maa.ngnaa hai jo kuchh KHudaa se maa.ng", "shayar": "Meer Taqi Meer"},
+         {"sher": "ab kar ke faraamosh to naashaad karoge \n  par ham jo na ho.nge to bahut yaad karoge", "shayar": "Meer Taqi Meer"},
+         {"sher": "'miir' saahab tum farishta ho to ho \n  aadmii honaa to mushkil hai miyaa.n", "shayar": "Meer Taqi Meer"},
+         {"sher": "be-dam hu.e biimaar davaa kyuu.n nahii.n dete \n  tum achchhe masiihaa ho shifaa kyuu.n nahii.n dete", "shayar": "Faiz Ahmad Faiz"},
+         {"sher": "agar sharar hai to bha.Dke jo phuul hai to khile \n  tarah tarah kii talab tere ra.ng-e-lab se hai", "shayar": "Faiz Ahmad Faiz"},
+         {"sher": "be-KHudii le ga.ii kahaa.n \n  ham ko der se intizaar hai apnaa", "shayar": "Meer Taqi Meer"},
+         {"sher": "miraa zamiir bahut hai mujhe sazaa ke liye \n  tuu dost hai to nasiihat na kar KHudaa ke liye", "shayar": "Shaz Tamkanat"},
+         {"sher": "har dha.Dakte patthar ko log dil samajhte hai.n \n  umre.n biit jaatii hai.n dil ko dil banaane me.n", "shayar": "Bashir Badr"},
+         {"sher": "apne kis kaam me.n laa.egaa bataataa bhii nahii.n \n  ham ko auro.n pe ga.nvaanaa bhii nahii.n chaahtaa hai", "shayar": "Irfan Siddiqi"},
+         {"sher": "tum suno yaa na suno haath ba.Dhaa.o na ba.Dhaa.o  \n Duubte Duubte ik baar pukaare.nge tumhe.n", "shayar": "Irfan Siddiqi"},
+         {"sher": "ik roz chhiin legii hamii.n se zamii.n hame.n  \n chhiine.nge kyaa zamii.n ke KHazaane zamii.n se ham", "shayar": "Saba Akbarabadi"},
+         {"sher": "achchhaa hu.aa ki sab dar-o-diivaar gir pa.De \n  ab raushnii to hai mire ghar me.n havaa to hai", "shayar": "Saba Akbarabadi"},
+         {"sher": "vahii phir mujhe yaad aane lage hai.n  \n jinhe.n bhuulne me.n zamaane lage hai.n", "shayar": "Khumar Barabankavi"},
+         {"sher": "duusro.n par agar tabsira kiijiye saamne \n  aa.ina rakh liyaa kiijiye", "shayar": "Khumar Barabankavi"},
+         {"sher": "dushmano.n se pyaar hotaa jaa.egaa \n  dosto.n ko aazmaate jaa.iye", "shayar": "Khumar Barabankavi"},
+         {"sher": "bhuule hai.n rafta rafta unhe.n muddato.n me.n ham \n  qisto.n me.n KHud-kushii kaa mazaa ham se puuchhiye", "shayar": "Khumar Barabankavi"},
+         {"sher": "aisaa nahii.n ki un se mohabbat nahii.n rahii \n  jazbaat me.n vo pahlii sii shiddat nahii.n rahii", "shayar": "Khumar Barabankavi"},
+         {"sher": "mujh se miraa ko.ii milne vaalaa \n  bichh.Daa to nahii.n magar milaa de", "shayar": "Obaidullah Aleem"},
+         {"sher": "javaanii kyaa hu.ii ik raat kii kahaanii hu.ii \n  badan puraanaa hu.aa ruuh bhii puraanii hu.ii", "shayar": "Obaidullah Aleem"},
+         {"sher": "havaa ke dosh pe rakkhe hu.e charaaG hai.n \n  ham jo bujh ga.e to havaa se shikaayate.n kaisii", "shayar": "Obaidullah Aleem"},
+         {"sher": "haa.e vo log ga.e chaa.nd se milne \n  aur phir apne hii TuuTe hu.e KHvaab uThaa kar le aa.e", "shayar": "Obaidullah Aleem"},
+         {"sher": "aziiz itnaa hii rakkho ki jii sambhal jaa.e \n  ab is qadar bhii na chaaho ki dam nikal jaa.e", "shayar": "Obaidullah Aleem"},
+         {"sher": "tark-e-ta.alluqaat pe royaa na tuu na mai.n  \n lekin ye kyaa ki chain se soyaa na tuu na mai.n", "shayar": "Khalid Ahmad"},
+         {"sher": "college se aa rahii hai sadaa paas paas kii \n  ohdo.n se aa rahii hai sadaa duur duur kii", "shayar": "Akbar Allahabadi"},
+         {"sher": "in ko kyaa kaam hai muravvat se apnii ruKH se ye mu.nh na mo.De.nge \n  jaan shaayad farishte chho.D bhii de.n doctor fees ko na chho.De.nge", "shayar": "Akbar Allahabadi"},
+         {"sher": "yahaa.n kii aurato.n ko ilm kii parvaa nahii.n be-shak \n  magar ye shauharo.n se apne be-parvaa nahii.n hotii.n", "shayar": "Akbar Allahabadi"},
+         {"sher": "muddato.n me.n aaj dil ne faisla aaKHir diyaa  \n KHuub-suurat hii sahii lekin ye duniyaa jhuuT hai", "shayar": "Akhtar Shumar"},
+         {"sher": "miir ke ba.ad Gaalib o iqbaal \n  ik sadaa, ik sadii me.n guzrii hai", "shayar": "Gulzar Dehlvi"},
+         {"sher": "umr jo be-KHudii me.n guzrii hai \n  bas vahii aagahii me.n guzrii hai", "shayar": "Gulzar Dehlvi"},
+         {"sher": "is safar me.n nii.nd aisii kho ga.ii \n  ham na so.e raat thak kar so ga.ii", "shayar": "Rahi Masoom Raza"},
+         {"sher": "ab to ghabraa ke ye kahte hai.n ki mar jaa.e.nge \n  mar ke bhii chain na paayaa to kidhar jaa.e.nge", "shayar": "Shaikh Ibrahim Zauq"},
+         {"sher": "baat bhii aap ke aage na zabaa.n se niklii \n  liijiye aa.e the ham soch ke kyaa kyaa dil me.n", "shayar": "Wazir Ali Saba Lakhnavi"},
+         {"sher": "hoshiyaarii dil-e-naadaan bahut kartaa hai \n  ra.nj kam sahtaa hai elaan bahut kartaa hai", "shayar": "Irfan Siddiqi"},
+         {"sher": "hame.n to KHair bikharnaa hii thaa kabhii na kabhii \n  havaa-e-taaza kaa jho.nkaa bahaana ho gayaa hai", "shayar": "Irfan Siddiqi"},
+         {"sher": "badan ke dono.n kinaaro.n se jal rahaa huu.n mai.n \n  ki chhuu rahaa huu.n tujhe aur pighal rahaa huu.n mai.n", "shayar": "Irfan Siddiqi"},
+         {"sher": "mujhe dost kahne vaale zaraa dostii nibhaa de \n  ye mutaalba hai haq kaa ko.ii iltijaa nahii.n hai", "shayar": "Shakeel Badayuni"},
+         {"sher": "mujhe chho.D de mere haal par tiraa kyaa bharosa hai chaaragar \n  ye tirii navaazish-e-muKHtasar meraa dard aur ba.Dhaa na de", "shayar": "Shakeel Badayuni"},
+         {"sher": "aate hai.n Gaib se ye mazaamii.n KHayaal me.n  \n 'Gaalib' sariir-e-KHaama navaa-e-sarosh hai", "shayar": "Mirza Ghalib"},
+         {"sher": "ham se puuchho ki Gazal kyaa hai Gazal kaa fan kyaa \n  chand lafzo.n me.n ko.ii aag chhupaa dii jaa.e", "shayar": "Jan Nisar Akhtar"},
+         {"sher": "la.Dkiyo.n ke dukh ajab hote hai.n sukh us se ajiib \n  ha.ns rahii hai.n aur kaajal bhiigtaa hai saath saath", "shayar": "Parveen Shakir"},
+         {"sher": "KHud ko bikharte dekhte hai.n kuchh kar nahii.n paate \n  hai.n phir bhii log KHudaa.o.n jaisii baate.n karte hai.n", "shayar": "Iftikhar Arif"},
+         {"sher": "nahii.n khel ai 'daaG' yaaro.n se kah do \n  ki aatii hai urdu zabaa.n aate aate", "shayar": "Dagh Dehlvi"},
+         {"sher": "ko.ii naam-o-nishaa.n puuchhe to ai qaasid bataa denaa \n  taKHallus 'daaG' hai vo aashiqo.n ke dil me.n rahte hai.n", "shayar": "Dagh Dehlvi"},
+         {"sher": "mohabbat mar ga.ii 'mushtaaq' lekin tum na maanoge \n  mai.n ye afvaah bhii tum ko sunaa kar dekh letaa huu.n", "shayar": "Ahmad Mushtaq"},
+         {"sher": "uTTho mirii duniyaa ke Gariibo.n ko jagaa do \n  kaaKH-e-umaaraa ke dar-o-diivaar hilaa do", "shayar": "Allama Iqbal"},
+         {"sher": "mohabbat ke liye dil Dhuu.nDh ko.ii TuuTne vaalaa \n  ye vo mai hai jise rakhte hai.n naazuk aabgiino.n me.n", "shayar": "Allama Iqbal"},
+         {"sher": "buto.n se tujh ko umiide.n KHudaa se naumiidii \n  mujhe bataa to sahii aur kaafirii kyaa hai", "shayar": "Allama Iqbal"},
+         {"sher": "masjid to banaa dii shab bhar me.n iimaa.n kii haraarat vaalo.n ne \n  man apnaa puraanaa paapii hai barso.n me.n namaazii ban na sakaa", "shayar": "Allama Iqbal"},
+         {"sher": "Dhuu.nDtaa phirtaa huu.n 'iqbaal' apne aap ko  \n aap hii goyaa musaafir aap hii manzil huu.n mai.n", "shayar": "Allama Iqbal"},
+         {"sher": "na thii haal kii jab hame.n apne KHabar rahe dekhte auro.n ke aib o hunar \n  pa.Dii apnii buraa.iyo.n par jo nazar to nigaah me.n ko.ii buraa na rahaa", "shayar": "Bahadur Shah Zafar"},
+         {"sher": "ham apnaa ishq chamkaa.e.n tum apnaa husn chamkaa.o \n  ki hairaa.n dekh kar aalam hame.n bhii ho tumhe.n bhii ho", "shayar": "Bahadur Shah Zafar"},
+         {"sher": "hazaaro.n kaam mohabbat me.n hai.n maze ke 'daaG' \n  jo log kuchh nahii.n karte kamaal karte hai.n", "shayar": "Dagh Dehlvi"},
+         {"sher": "hamaare shahr ke logo.n kaa ab ahvaal itnaa hai \n  kabhii aKHbaar pa.Dh lenaa kabhii aKHbaar ho jaanaa", "shayar": "Ada Jafarey"},
+         {"sher": "jannat milii jhuuTo.n ko agar jhuuT ke badle \n  sachcho.n ko sazaa me.n hai jahannam bhii gavaaraa", "shayar": "Ahmad Nadeem Qasmi"},
+         {"sher": "kaun kahtaa hai ki maut aa.ii to mar jaa.uu.ngaa \n  mai.n to dariyaa huu.n samundar me.n utar jaa.uu.ngaa", "shayar": "Ahmad Nadeem Qasmi"},
+         {"sher": "jo hame.n paa ke bhii khone se bahut piichhe thaa \n  ham use kho ke bhii paane se bahut aage hai.n", "shayar": "Zeeshan Sahil"},
+         {"sher": "sirf mehnat kyaa hai 'anvar' kaamyaabii ke liye \n  ko.ii uupar se bhii telephone honaa chaahiye", "shayar": "Anwar Masood"},
+         {"sher": "urdu se ho kyuu.n bezaar english se kyuu.n itnaa pyaar  \n chho.Do bhii ye raTTaa yaar twinkle twinkle little star", "shayar": "Anwar Masood"},
+       {"sher": "kar rahaa thaa Gam-e-jahaa.n kaa hisaab  \n aaj tum yaad be-hisaab aa.e", "shayar": "Faiz Ahmad Faiz"},
+       {"sher": "KHvaab sharminda-e-visaal hu.aa \n  hijr me.n nii.nd aa ga.ii thii mujhe", "shayar": "Anjum Saleemi"},
+       {"sher": "vo Gazal kii kitaab hai pyaare \n  us ko pa.Dhnaa savaab hai pyaare", "shayar": "Ateeq Anzar"},
+       {"sher": "raas aane lagii duniyaa to kahaa dil ne \n  ki jaa ab tujhe dard kii daulat nahii.n milne vaalii", "shayar": "Iftikhar Arif"},
+       {"sher": "vafaa kii KHair manaataa huu.n \n  bevafaa.ii me.n bhii mai.n us kii qaid me.n", "shayar": "Iftikhar Arif"},
+       {"sher": "charaaGo.n ke badle makaa.n jal rahe hai.n \n  nayaa hai zamaana na.ii raushnii hai", "shayar": "Khumar Barabankavi"},
+       {"sher": "apne saamaan ko baa.ndhe hu.e is soch me.n huu.n jo kahii.n ke nahii.n rahte vo kahaa.n jaate hai.n", "shayar": "Jawad Sheikh"},
+       {"sher": "ab na 'Gaalib' se shikaayat hai na shikva 'miir' kaa ban gayaa mai.n bhii nishaana reKHta ke tiir kaa", "shayar": "Mohammad Alvi"},
+       {"sher": "ik guzaarish hai hazrat-e-naaseh aap ab aur ko.ii kaam kare.n", "shayar": "Khumar Barabankavi"},
+       {"sher": "kaa.nTo.n se guzar jaataa huu.n daaman ko bachaa kar phuulo.n kii siyaasat se mai.n begaana nahii.n huu.n", "shayar": "Shakeel Badayuni"},
+       {"sher": "ham ne kaa.nTo.n ko bhii narmii se chhu.aa hai aksar log bedard hai.n phuulo.n ko masal dete hai.n", "shayar": "Bismil Saeedi"},
+       {"sher": "baal apne ba.Dhaate hai.n kis vaaste diivaane kyaa shahr-e-mohabbat me.n hajjaam nahii.n hotaa", "shayar": "Mushafi Ghulam Hamdani"},
+       {"sher": "'shu.uur' sirf iraade se kuchh nahii.n hotaa amal hai shart iraade sabhii ke hote hai.n", "shayar": "Anwar Shuoor"},
+       {"sher": "allaah ke shero.n ko aatii nahii.n ruubaahii", "shayar": "Allama Iqbal"},
+       {"sher": "har musiibat kaa diyaa ek tabassum se javaab is tarah gardish-e-dauraa.n ko rulaayaa mai.n ne", "shayar": "Fani Badauni"},
+       {"sher": "jitnii burii kahii jaatii hai utnii burii nahii.n hai duniyaa bachcho.n ke school me.n shaayad tum se milii nahii.n hai duniyaa", "shayar": "Nida Fazli"},
+       {"sher": "har gha.Dii KHud se ulajhnaa hai muqaddar meraa mai.n hii kashtii huu.n mujhii me.n hai samundar meraa", "shayar": "Nida Fazli"},
+       {"sher": "yahii hai zindagii kuchh KHvaab chand ummiide.n inhii.n khilauno.n se tum bhii bahal sako to chalo", "shayar": "Nida Fazli"},
+       {"sher": "us ko ruKHsat to kiyaa thaa mujhe ma.aluum na thaa saaraa ghar le gayaa ghar chho.D ke jaane vaalaa", "shayar": "Nida Fazli"},
+       {"sher": "dil kii tamannaa thii mastii me.n manzil se bhii duur nikalte apnaa bhii ko.ii saathii hotaa ham bhii bahakte chalte chalte", "shayar": "Majrooh Sultanpuri"},
+       {"sher": "tayyaar the namaaz pe ham sun ke zikr-e-huur jalva buto.n kaa dekh ke niiyat badal ga.ii", "shayar": "Akbar Allahabadi"},
+       {"sher": "ha.ngaama hai kyuu.n barpaa tho.Dii sii jo pii lii hai Daakaa to nahii.n maaraa chorii to nahii.n kii hai", "shayar": "Akbar Allahabadi"},
+       {"sher": "ilaahii kaisii kaisii suurate.n tuu ne banaa.ii hai.n ki har suurat kaleje se lagaa lene ke qaabil hai", "shayar": "Akbar Allahabadi"},
+       {"sher": "jo kahaa mai.n ne ki pyaar aataa hai mujh ko tum par ha.ns ke kahne lagaa aur aap ko aataa kyaa hai", "shayar": "Akbar Allahabadi"},
+       {"sher": "ek lamhe me.n kaTaa hai muddato.n kaa faasla mai.n abhii aayaa huu.n tasviire.n puraanii dekh kar", "shayar": "Shahzad Ahmad"},
+       {"sher": "das baje raat ko so jaate hai.n KHabre.n sun kar aa.nkh khultii hai to aKHbaar talab karte hai.n", "shayar": "Shahzad Ahmad"},
+       {"sher": "ye samajh ke maanaa hai sach tumhaarii baato.n ko itne KHuub-suurat lab jhuuT kaise bole.nge", "shayar": "Shahzad Ahmad"},
+       {"sher": "sab kii tarah tuu ne bhii mire aib nikaale tuu ne bhii KHudaayaa mirii niyyat nahii.n dekhii", "shayar": "Shahzad Ahmad"},
+       {"sher": "vaaqi.a kuchh bhii ho sach kahne me.n rusvaa.ii hai kyuu.n na KHaamosh rahuu.n ahl-e-nazar kahlaa.uu.n", "shayar": "Shahzad Ahmad"},
+       {"sher": "bhuuk chehro.n pe liye chaa.nd se pyaare bachche bechte phirte hai.n galiyo.n me.n Gubaare bachche", "shayar": "Shahzad Ahmad"},
+       {"sher": "kaa.nTo.n me.n ghire phuul ko chuum aa.egii lekin titlii ke paro.n ko kabhii chhilte nahii.n dekhaa", "shayar": "Bedil Haidri"},
+       {"sher": "bahut se Gam chhupe ho.nge ha.nsii me.n zaraa in ha.nsne vaalo.n ko TaTolo", "shayar": "Parveen Shakir"},
+       {"sher": "nafrat ke KHazaane me.n to kuchh bhii nahii.n baaqii tho.Daa saa guzaare ke liye pyaar bachaa.e.n", "shayar": "Waqar Manvi"},
+       {"sher": "ham sab aa.iina-dar-aa.iina-dar-aa.iina hai.n kyaa KHabar kaun kahaa.n kis kii taraf dekhtaa hai", "shayar": "Irfan Siddiqi"},
+       {"sher": "raakh ke Dher pe kyaa sho.ala-bayaanii karte ek qisse kii bhalaa kitnii kahaanii karte", "shayar": "Irfan Siddiqi"},
+       {"sher": "kis ajab saa.at-e-naayaab me.n aayaa hu.aa huu.n tujh se milne mai.n tire KHvaab me.n aayaa hu.aa huu.n", "shayar": "Irfan Sattar"},
+       {"sher": "ye kaise malbe ke niiche dabaa diyaa gayaa huu.n mujhe badan se nikaalo mai.n ta.ng aa gayaa huu.n", "shayar": "Irfan Sattar"},
+       {"sher": "vo jis ne mujh ko tire hijr me.n bahaal rakhaa tuu aa gayaa hai to kyaa us se bevafaa ho jaa.uu.n", "shayar": "Irfan Sattar"},
+       {"sher": "'hafiiz' apnii bolii mohabbat kii bolii na urdu na hindii na hindostaanii", "shayar": "Hafeez Jalandhari"},
+       {"sher": "jis ahd me.n luT jaa.e faqiiro.n kii kamaa.ii us ahd ke sultaan se kuchh bhuul hu.ii hai", "shayar": "Saghar Siddiqui"},
+       {"sher": "mai.n tujh se saath bhii to umar bhar kaa chaahtaa thaa so ab tujh se gilaa bhii umar bhar kaa ho gayaa hai", "shayar": "Irfan Sattar"},
+       {"sher": "mai.n jaag jaag ke kis kis kaa intizaar karuu.n jo log ghar nahii.n pahu.nche vo mar ga.e ho.nge", "shayar": "Irfan Sattar"},
+       {"sher": "kabhī jo ḳhvāb thā vo pā liyā hai magar jo kho ga.ī vo chiiz kyā thī", "shayar": "Zafar Iqbal"},
+       {"sher": "KHushii milii to ye aalam thaa bad-havaasii kaa ki dhyaan hii na rahaa Gam kii be-libaasii kaa", "shayar": "Zafar Iqbal"},
+       {"sher": "raaste hai.n khule hu.e saare phir bhii ye zindagii rukii hu.ii hai", "shayar": "Zafar Iqbal"},
+       {"sher": "muskuraate hu.e miltaa huu.n kisii se jo 'zafar' saaf pahchaan liyaa jaaataa huu.n royaa hu.aa mai_n", "shayar": "Zafar Iqbal"},
+       {"sher": "KHaamushii achchhii nahii.n inkaar honaa chaahiye ye tamaashaa ab sar-e-baazaar honaa chaahiye", "shayar": "Zafar Iqbal"},
+       {"sher": "tujh ko merii na mujhe terii KHabar jaa.egii eid ab ke bhii dabe paa.nv guzar jaa.egii", "shayar": "Zafar Iqbal"},
+       {"sher": "yahaa.n kisii ko bhii kuchh hasb-e-aarzuu na milaa kisii ko ham na mile aur ham ko tuu na milaa", "shayar": "Zafar Iqbal"},
+       {"sher": "thaknaa bhii laazmii thaa kuchh kaam karte karte kuchh aur thak gayaa huu.n aaraam karte karte", "shayar": "Zafar Iqbal"},
+       {"sher": "mile mujhe bhii agar ko.ii shaam fursat kii mai_n kyaa huu.n kaun huu.n sochuu.ngaa apne baare me.n", "shayar": "Zafar Iqbal"},
+       {"sher": "pyaaso raho na dasht me.n baarish ke muntazir maaro zamii.n pe paa.nv ki paanii nikal pa.De", "shayar": "Iqbal Sajid"},
+       {"sher": "vo chaa.nd hai to aks bhii paanii me.n aa.egaa kirdaar KHud ubhar ke kahaanii me.n aa.egaa", "shayar": "Iqbal Sajid"},
+       {"sher": "suuraj huu.n zindagii kii ramaq chho.D jaa.uu.ngaa mai.n Duub bhii gayaa to shafaq chho.D jaa.uu.ngaa", "shayar": "Iqbal Sajid"},
+       {"sher": "apnii anaa kii aaj bhii taskiin ham ne kii jii bhar ke us ke husn kii tauhiin ham ne kii", "shayar": "Iqbal Sajid"},
+       {"sher": "kisii haalat me.n bhii tanhaa nahii.n hone detii hai yahii ek KHaraabii mirii tanhaa.ii kii", "shayar": "FARHAT EHSAS"},
+       {"sher": "kisii kalii kisii gul me.n kisii chaman me.n nahii.n vo ra.ng hai hii nahii.n jo tire badan me.n nahii.n", "shayar": "FARHAT EHSAS"},
+       {"sher": "in charaaGo.n me.n tel hii kam thaa kyuu.n gila phir hame.n havaa se rahe", "shayar": "Javed Akhtar"},
+       {"sher": "uu.nchii imaarato.n se makaa.n meraa ghir gayaa kuchh log mere hisse kaa suuraj bhii khaa ga.e", "shayar": "Javed Akhtar"},
+       {"sher": "Dar ham ko bhii lagtaa hai raste ke sannaaTe se lekin ek safar par ai dil ab jaanaa to hogaa", "shayar": "Javed Akhtar"},
+       {"sher": "jidhar jaate hai.n sab jaanaa udhar achchhaa nahii.n lagtaa mujhe paamaal rasto.n kaa safar achchhaa nahii.n lagtaa", "shayar": "Javed Akhtar"},
+       {"sher": "kabhii jo KHvaab thaa vo paa liyaa hai magar jo kho ga.ii vo chiiz kyaa thii", "shayar": "Javed Akhtar"},
+       {"sher": "agar tumhaarii anaa hii kaa hai savaal to phir chalo mai.n haath ba.Dhaataa huu.n dostii ke liye", "shayar": "Ahmad Faraz"},
+       {"sher": "is se pahle ki be-vafaa ho jaa.e.n kyuu.n na ai dost ham judaa ho jaa.e.n", "shayar": "Ahmad Faraz"},
+       {"sher": "us ko judaa hu.e bhii zamaana bahut hu.aa ab kyaa kahe.n ye qissa puraanaa bahut hu.aa", "shayar": "Ahmad Faraz"},
+       {"sher": "aa.nkh se duur na ho dil se utar jaa.egaa vaqt kaa kyaa hai guzartaa hai guzar jaa.egaa", "shayar": "Ahmad Faraz"},
+       {"sher": "zindagii se yahii gila hai mujhe tuu bahut der se milaa hai mujhe", "shayar": "Ahmad Faraz"},
+       {"sher": "dil ko tirii chaahat pe bharosa bhii bahut hai aur tujh se bichha.D jaane kaa Dar bhii nahii.n jaataa", "shayar": "Ahmad Faraz"},
+       {"sher": "kisii ko ghar se nikalte hii mil ga.ii manzil ko.ii hamaarii tarah umr bhar safar me.n rahaa", "shayar": "Ahmad Faraz"},
+       {"sher": "tum takalluf ko bhii iKHlaas samajhte ho 'faraaz' dost hotaa nahii.n har haath milaane vaalaa", "shayar": "Ahmad Faraz"},
+       {"sher": "kis kis ko bataa.e.nge judaa.ii kaa sabab ham tuu mujh se KHafaa hai to zamaane ke liye aa", "shayar": "Ahmad Faraz"},
+       {"sher": "hu.aa hai tujh se bichha.Dne ke ba.ad ye ma.aluum ki tuu nahii.n thaa tire saath ek duniyaa thii", "shayar": "Ahmad Faraz"},
+       {"sher": "ab ke ham bichh.De to shaayad kabhii KHvaabo.n me.n mile.n jis tarah suukhe hu.e phuul kitaabo.n me.n mile.n", "shayar": "Ahmad Faraz"},
+       {"sher": "ranjish hii sahii dil hii dukhaane ke liye aa aa phir se mujhe chho.D ke jaane ke liye aa", "shayar": "Ahmad Faraz"},
+       {"sher": "sahraa se ho ke baaG me.n aayaa huu.n sair ko haatho.n me.n phuul hai.n mire paa.nv me.n ret hai", "shayar": "Tahzeeb Hafi"},
+       {"sher": "mai.n suKHan me.n huu.n us jagah ki jahaa.n saa.ns lenaa bhii shaa.irii hai mujhe", "shayar": "Tahzeeb Hafi"},
+       {"sher": "mai_n jis ke saath ka.ii din guzaar aayaa huu.n vo mere saath basar raat kyuu.n nahii.n kartaa", "shayar": "Tahzeeb Hafi"},
+       {"sher": "tamaam naaKHudaa saahil se duur ho jaa.e.n samundaro.n se akele me.n baat karnii hai", "shayar": "Tahzeeb Hafi"},
+       {"sher": "ik tiraa hijr daa.imii hai mujhe varna har chiiz aarzii hai mujhe", "shayar": "Tahzeeb Hafi"},
+       {"sher": "vo jis kii chhaa.nv me.n pachchiis saal guzre hai.n vo pe.D mujh se ko.ii baat kyuu.n nahii.n kartaa", "shayar": "Tahzeeb Hafi"},
+       {"sher": "daastaa.n huu.n mai_n ik taviil magar tuu jo sun le to muKHtasar bhii huu.n", "shayar": "Tahzeeb Hafi"},
+       {"sher": "ye ek baat samajhne me.n raat ho ga.ii hai mai_n us se jiit gayaa huu.n ki maat ho ga.ii hai", "shayar": "Tahzeeb Hafi"},
+       {"sher": "apnii mastii me.n bahtaa dariyaa huu.n mai_n kinaara bhii huu.n bha.nvar bhii huu.n", "shayar": "Tahzeeb Hafi"},
+       {"sher": "teraa chup rahnaa mire zehn me.n kyaa baiTh gayaa itnii aavaaze.n tujhe dii.n ki galaa baiTh gayaa", "shayar": "Tahzeeb Hafi"},
+       {"sher": "mai_n ki kaaGaz kii ek kashtii huu.n pahlii baarish hii aaKHirii hai mujhe", "shayar": "Tahzeeb Hafi"},
+       {"sher": "mai_n ab kisii kii bhii ummiid to.D saktaa huu.n mujhe kisii pe bhii ab ko.ii e'tibaar nahii.n", "shayar": "Jawad Sheikh"},
+       {"sher": "kaise kaise banaa diye chehre apnii be-chehragii banaate hu.e", "shayar": "Ammar Iqbal"},
+       {"sher": "mai.n aa.iino.n ko dekhe jaa rahaa thaa ab in se baat bhii karne lagaa huu.n", "shayar": "Ammar Iqbal"},
+       {"sher": "haath jis ko lagaa nahii.n saktaa us ko aavaaz to lagaane do", "shayar": "Ammar Iqbal"},
+       {"sher": "ye jo mai.n huu.n zaraa saa baaqii huu.n vo jo tum the vo mar ga.e mujh me.n", "shayar": "Ammar Iqbal"},
+       {"sher": "us ne naasuur kar liyaa hogaa zaKHm ko shaa.erii banaate hu.e", "shayar": "Ammar Iqbal"},
+       {"sher": "ek darvesh ko tirii KHaatir saarii bastii se ishq ho gayaa hai", "shayar": "Ammar Iqbal"},
+       {"sher": "mai.n ne tasviir phe.nk dii hai magar kiil diivaar me.n ga.Dii hu.ii hai", "shayar": "Ammar Iqbal"},
+       {"sher": "ek hii baat mujh me.n achchhii hai aur mai.n bas vahii nahii.n kartaa", "shayar": "Ammar Iqbal"},
+       {"sher": "mai.n ne chaahaa thaa zaKHm bhar jaa.e.n zaKHm hii zaKHm bhar ga.e mujh me.n", "shayar": "Ammar Iqbal"},
+       {"sher": "ye saat uTh pa.Dosii kahaa.n se aa.e mire tumhaare dil me.n to ko.ii na thaa sivaa.e mire", "shayar": "Umair Najmi"},
+       {"sher": "tum pe kyaa KHaak asar hogaa mire shero.n kaa tum ko to miir-taqii-'miir' nahii.n khii.nch sakaa", "shayar": "Umair Najmi"},
+       {"sher": "us kii tah se kabhii daryaaft kiyaa jaa.uu.ngaa mai.n jis samundar me.n ye sailaab ikaTThe ho.nge", "shayar": "Umair Najmi"},
+       {"sher": "kisii galii me.n kiraa.e pe ghar liyaa us ne phir us galii me.n gharo.n ke kiraa.e ba.Dhne lage", "shayar": "Umair Najmi"},
+       {"sher": "kitaab-e-ishq me.n har aah ek aayat hai par aa.nsu.o.n ko huruuf-e-muqatti.aat samajh", "shayar": "Umair Najmi"},
+       {"sher": "bichha.D ga.e to ye dil umr bhar lagegaa nahii.n lagegaa lagne lagaa hai magar lagegaa nahii.n", "shayar": "Umair Najmi"},
+       {"sher": "nikaal laayaa huu.n ek pinjre se ik parinda ab is parinde ke dil se pi.njra nikaalnaa hai", "shayar": "Umair Najmi"},
+       {"sher": "Gam-e-duniyaa bhii Gam-e-yaar me.n shaamil kar lo nashsha ba.Dhtaa hai sharaabe.n jo sharaabo.n me.n mile.n", "shayar": "Umair Najmi"},
+       {"sher": "is qadar musalsal thii.n shiddate.n judaa.ii kii aaj pahlii baar us se mai.n ne bevafaa.ii kii", "shayar": "Ahmad Faraz"},
+       {"sher": "bandagii ham ne chho.D dii hai 'faraaz' kyaa kare.n log jab KHudaa ho jaa.e.n", "shayar": "Ahmad Faraz"},
+       {"sher": "qurbate.n laakh KHuub-suurat ho.n duuriyo.n me.n bhii dilkashii hai abhii", "shayar": "Ahmad Faraz"},
+       {"sher": "aashiqii me.n 'miir' jaise KHvaab mat dekhaa karo baavle ho jaa.oge mahtaab mat dekhaa karo", "shayar": "Ahmad Faraz"},
+       {"sher": "dil bhii paagal hai ki us shaKHs se vaabasta hai jo kisii aur kaa hone de na apnaa rakkhe", "shayar": "Ahmad Faraz"},
+       {"sher": "Dhuu.nD uj.De hu.e logo.n me.n vafaa ke motii ye KHazaane tujhe mumkin hai KHaraabo.n me.n mile.n",
+       "shayar": "Ahmad Faraz"},
+       {"sher": "aur 'faraaz' chaahiye.n kitnii mohabbate.n tujhe maa.o.n ne tere naam par bachcho.n kaa naam rakh diyaa",
+       "shayar": "Ahmad Faraz"},
+       {"sher": "muddat hu.ii ik shaKHs ne dil to.D diyaa thaa is vaaste apno.n se mohabbat nahii.n karte",
+       "shayar": "Saqi Faruqi"},
+       {"sher": "vo TuuTte hu.e rishto.n kaa husn-e-aaKHir thaa ki chup sii lag ga.ii dono.n ko baat karte hu.e",
+         "shayar": "Rajinder Manchanda Bani"},
+       {"sher": "ai dost ham ne tark-e-mohabbat ke baavajuud mahsuus kii hai terii zaruurat kabhii kabhii",
+         "shayar": "Nasir Kazmi"},
+       {"sher": "ham ko un se vafaa kii hai ummiid jo nahii.n jaante vafaa kyaa hai",
+         "shayar": "Mirza Ghalib"},
+       {"sher": "ye mujhe chain kyuu.n nahii.n pa.Dtaa ek hii shaKHs thaa jahaan me.n kyaa",
+         "shayar": "Jaun Eliya"},
+       {"sher": "mujh ko to hosh nahii.n tum ko KHabar ho shaayad log kahte hai.n ki tum ne mujhe barbaad kiyaa",
+         "shayar": "Josh Malihabadi"},
+       {"sher": "dil kii choTo.n ne kabhii chain se rahne na diyaa jab chalii sard havaa mai.n ne tujhe yaad kiyaa",
+         "shayar": "Josh Malihabadi"},
+       {"sher": "jaise baarish se dhule sehn-e-gulistaa.n 'amjad' aa.nkh jab KHushk hu.ii aur bhii chehraa chamkaa",
+         "shayar": "Amjad Islam Amjad"},
+       {"sher": "chehre pe mire zulf ko phailaa.o kisii din kyaa roz garajte ho baras jaa.o kisii din",
+         "shayar": "Amjad Islam Amjad"},
+       {"sher": "ba.De sukuun se Duube the Duubne vaale jo saahilo.n pe kha.De the bahut pukaare bhii",
+         "shayar": "Amjad Islam Amjad"},
+       {"sher": "jis taraf tuu hai udhar ho.ngii sabhii kii nazre.n iid ke chaa.nd kaa diidaar bahaana hii sahii",
+         "shayar": "Amjad Islam Amjad"},
+       {"sher": "badan me.n jaise lahuu taaziyaana ho gayaa hai use gale se lagaa.e zamaana ho gayaa hai",
+         "shayar": "Amjad Islam Amjad"},
+       {"sher": "uTho ye manzar-e-shab-taab dekhne ke liye ki nii.nd shart nahii.n KHvaab dekhne ke liye",
+         "shayar": "Irfan Siddiqi"},
+       {"sher": "mere siine se zaraa kaan lagaa kar dekho saa.ns chaltii hai ki zanjiir-zanii hotii hai",
+         "shayar": "Irfan Siddiqi"},
+       {"sher": "agar yuu.nhii mujhe rakkhaa gayaa akele me.n baraamad aur ko.ii is makaan se hogaa",
+         "shayar": "Abbas Tabish"},
+       {"sher": "masruuf hai.n kuchh itne ki ham kaar-e-mohabbat aaGaaz to kar lete hai.n jaarii nahii.n rakhte",
+         "shayar": "Abbas Tabish"},
+       {"sher": "jis se puuchhe.n tire baare me.n yahii kahtaa hai KHuubsuurat hai vafaadaar nahii.n ho saktaa",
+         "shayar": "Abbas Tabish"},
+       {"sher": "ye mohabbat kii kahaanii nahii.n martii lekin log kirdaar nibhaate hu.e mar jaate hai.n",
+         "shayar": "Abbas Tabish"},
+       {"sher": "apne hone kaa kuchh ehsaas na hone se hu.aa KHud se milnaa miraa ik shaKHs ke khone se hu.aa",
+         "shayar": "Abbas Tabish"},
+       {"sher": "ab is ghar kii aabaadii mehmaano.n par hai ko.ii aa jaa.e to vaqt guzar jaataa hai",
+         "shayar": "Musavvir Sabzwari"},
+       {"sher": "KHvaab kii tarah bikhar jaane ko jii chaahtaa hai aisii tanhaa.ii ki mar jaane ko jii chaahtaa hai",
+         "shayar": "Zehra Nigah"},
+       {"sher": "bahut shor thaa jab samaa.at ga.ii bahut bhii.D thii jab akele hu.e",
+         "shayar": "Iftikhar Arif"},
+       {"sher": "tabaah kar ga.ii pakke makaan kii KHvaahish mai.n apne gaa.nv ke kachche makaan se bhii gayaa",
+         "shayar": "Shahryar"},
+       {"sher": "mere TuuTe hausle ke par nikalte dekh kar us ne diivaaro.n ko apnii aur uu.nchaa kar diyaa",
+         "shayar": "Shahid Kabir"},
+       {"sher": "mai.n to is vaaste chup huu.n ki tamaashaa na bane tuu samajhtaa hai mujhe tujh se gilaa kuchh bhii nahii.n",
+         "shayar": "Adil Mansuri"},
+       {"sher": "mai.n to is vaaste chup huu.n ki tamaashaa na bane tuu samajhtaa hai mujhe tujh se gilaa kuchh bhii nahii.n",
+         "shayar": "Akhtar Shumar"}
+       ]
+     }
+     
