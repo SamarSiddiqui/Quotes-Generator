@@ -1,64 +1,65 @@
-*{
+@import url('https://fonts.googleapis.com/css2?family=Esteban&display=swap');
+
+* {
     padding: 0;
     margin: 0;
     box-sizing: border-box;
 }
 
-body{
+body {
     width: 100vw;
     height: 100vh;
-    background-color:  lightsalmon;
+    transition: background-color 1s ease;
     position: relative;
-   font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
-   
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;   
 }
 
-.mainContainer{
- position: absolute;
- height: 310px;
- border: 5px solid yellow;
- top: 50%;
- left: 50%;
- transform: translate(-50%,-50%);
+.mainContainer {
+    position: absolute;
+    height: 310px;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
 }
 
-.quoteBox{
+.quoteBox {
     width: 600px;
     height: 250px;
-    background-color: antiquewhite;
-    border: 3px solid fuchsia;
-
+    background-color: #fff;
 }
 
 .nameBox {
     width: 600px;
     height: 50px;
-    background-color: aqua;
+    color: antiquewhite;
+    text-align: center;
 }
 
-.nameBox{
-color: antiquewhite;
-text-align: center;
+.quotes {
+    min-width: 100px;
+    height: 120px;
+    margin: auto;
+    text-align: center;
+    transition: color 1s ease;
 }
 
-.quotes{
-width: 550px;
-height: 120px;
-margin: auto;
-border: 4px solid red;
-text-align: center;
-}
-
-.author{
+.author {
     width: 250px;
     height: 50px;
     margin: auto;    
-    border: 1px solid blue; 
+    text-align: center;
 }
 
-.clickBox{
+.clickBox {
     width: 250px;
     height: 50px;
     margin: auto;    
-    border: 1px solid rgb(116, 174, 44); 
+    display: flex;
+    justify-content: center;
+}
+
+.clickBox button {
+    padding: 10px;
+    font-size: 15px;
+    color: #fff;
 }
