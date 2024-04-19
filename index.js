@@ -20,7 +20,7 @@ let myProm = fetchData();
 myProm.then((data) => {
     var randomQuotes = Math.floor(Math.random() * data.shayri.length);
     quoteHeading.innerHTML = data.shayri[randomQuotes].sher;
-    authorHeading.textContent = data.shayri[randomQuotes].shayar;
+    authorHeading.textContent = `-  ${data.shayri[randomQuotes].shayar}`;
 });
 
 function randomColor() {
@@ -33,7 +33,7 @@ function randomColor() {
 
 function quotesGenerator(sher, shayar) {
     quoteHeading.innerHTML = sher;
-    authorHeading.textContent = shayar;
+    authorHeading.textContent = `-  ${shayar}`;
 }
 
 button.addEventListener('click', () => {
