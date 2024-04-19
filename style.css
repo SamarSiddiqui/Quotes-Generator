@@ -1,5 +1,3 @@
-@import url('https://fonts.googleapis.com/css2?family=Esteban&display=swap');
-
 * {
     padding: 0;
     margin: 0;
@@ -17,12 +15,12 @@
 }
 
 @font-face {
-   font-family: "kalam-variable";
-   src: url('./assets/fonts/Kalam-Variable.woff2');
-   font-weight: 700;
-  font-display: swap;
-  font-style: normal;
-  }
+    font-family: "kalam-variable";
+    src: url('./assets/fonts/Kalam-Variable.woff2');
+    font-weight: 700;
+    font-display: swap;
+    font-style: normal;
+}
 
 .quoteBox {
     position: relative;
@@ -32,8 +30,6 @@
 }
 
 .nameBox {
-    max-width: 700px;
-    min-width: 550px;
     height: 50px;
     color: white;
     text-align: center;
@@ -42,26 +38,24 @@
 
 .quotes {
     min-width: 100px;
-    height: 120px;
-    margin:10px ;
+    margin: 10px;
     text-align: center;
     transition: color 2s ease;
 }
 
-.quotes h2{
+.quotes h2 {
     padding-top: 10px;
 }
+
 .author {
-    position: absolute;
-    right: 2em;
-    top: 6em;
-    height: 50px;
+    text-align: end;
+    padding-right: 20px;
 }
 
 .clickBox {
-    position: absolute;
-    right: 2em;
-    top: 9em;
+    margin-top: 20px;
+    padding-right: 20px;
+    text-align: end;
 }
 
 .clickBox button {
@@ -72,4 +66,34 @@
     border: none;
     cursor: pointer;
     transition: background-color 0.5s ease;
+}
+
+@media screen and (max-width: 700px) {
+    .quotesArea {
+        width: 450px; 
+    }
+    .author, .clickBox {
+        text-align: center;
+    } 
+    .quotes h2 {
+        font-size: 18px;
+    }
+    .quoteBox {
+        max-height: 200px;
+    }
+    .clickBox {
+        margin: 10px;
+    }
+}
+
+@media screen and (max-width: 461px) {
+    .quotesArea {
+        width: 300px;
+    }
+    .quoteBox {
+        min-height: 270px;
+    }
+    .quotes {
+        min-height: 150px;
+    } 
 }

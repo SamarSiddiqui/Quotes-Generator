@@ -1,6 +1,6 @@
 {
        "shayri": [
-         {"sher": "Makii.n jab nii.nd ke saa.e me.n sustaane lage.n <br> 'taabish' safar karte hai.n bastii ke makaa.n aahista aahista", "shayar": "Abbas Tabish"},
+         {"sher": "Makii.n jab nii.nd ke saa.e me.n sustaane lage.n 'taabish'<br> safar karte hai.n bastii ke makaa.n aahista aahista ", "shayar": "Abbas Tabish"},
          {"sher": "Mai.n tire dar kaa bhikaarii tuu mire dar kaa faqiir <br> aadmii is daur me.n KHuddaar ho saktaa nahii.n", "shayar": "Iqbal Sajid"},
          {"sher": "Pichhle baras bhii bo.ii thii.n lafzo.n kii khetiyaa.n <br> ab ke baras bhii is ke sivaa kuchh nahii.n kiyaa", "shayar": "Iqbal Sajid"},
          {"sher": "Mujh se chhu.Dvaa.e mire saare usuul us ne 'zafar' <br> kitnaa chaalaak thaa maaraa mujhe tanhaa kar ke", "shayar": "Zafar Iqbal"},
@@ -76,7 +76,7 @@
          {"sher": "ik roz chhiin legii hamii.n se zamii.n hame.n  <br> chhiine.nge kyaa zamii.n ke KHazaane zamii.n se ham", "shayar": "Saba Akbarabadi"},
          {"sher": "achchhaa hu.aa ki sab dar-o-diivaar gir pa.De <br>  ab raushnii to hai mire ghar me.n havaa to hai", "shayar": "Saba Akbarabadi"},
          {"sher": "vahii phir mujhe yaad aane lage hai.n  <br> jinhe.n bhuulne me.n zamaane lage hai.n", "shayar": "Khumar Barabankavi"},
-         {"sher": "duusro.n par agar tabsira kiijiye saamne <br>  aa.ina rakh liyaa kiijiye", "shayar": "Khumar Barabankavi"},
+         {"sher": "duusro.n par agar tabsira kiijiye <br> saamne   aa.ina rakh liyaa kiijiye", "shayar": "Khumar Barabankavi"},
          {"sher": "dushmano.n se pyaar hotaa jaa.egaa <br>  dosto.n ko aazmaate jaa.iye", "shayar": "Khumar Barabankavi"},
          {"sher": "bhuule hai.n rafta rafta unhe.n muddato.n me.n ham <br>  qisto.n me.n KHud-kushii kaa mazaa ham se puuchhiye", "shayar": "Khumar Barabankavi"},
          {"sher": "aisaa nahii.n ki un se mohabbat nahii.n rahii <br>  jazbaat me.n vo pahlii sii shiddat nahii.n rahii", "shayar": "Khumar Barabankavi"},
@@ -291,11 +291,53 @@
 
          },
          {"sher":"ek tarz-e-taghaful hai. so wo unko mubarak <br> Ek tarz-e-tamanna hai. so hum karte rahenge","shayar":"Faiz Ahmad Faiz"
-
          },
-         {"sher":"","shayar":""
-
-         }
+         {"sher":"yeh miyaan ahe-e-mohabbat hain inhe kuch na kaho <br> yeh bade log hain bachhon ki tarah sochte hain","shayar":"Abbas Tabish"
+         },
+         {"sher":"yeh duniya hai yahan pey yeh tamasha ho bhi sakta hai <br> abhi jo gham humara hai tumhara ho bhi sakta hai","shayar":"Abbas Tabish"
+         },
+         {"sher":"dushmano k saath mere dost bhi azaad hain <br>dekhna hai khenchta hai mujhpe pehla teer kaun","shayar":"Parveen Shakir"
+         },
+         {"sher":"hamaare chand achhe doston ne ye vaada khud se kiya hua hai<br> ki shakl allah ne achhi di hai so baatein achhi nahin karenge","shayar":"Rehman Faris"
+         },{
+          "sher":"nahin nahin main bahut KHush raha hun tere baghair <br>yaqin kar ki ye haalat abhi abhi hui hai ","shayar":"Irfan Sattar"
+         },{"sher":"aisi taqniik se bacpan mei daraya gya hu <br> Jo darata hai wahi mujhko khuda lagta hai","shayar":"Gair Maa'ruuf"},{
+          "sher":"Utha liye gaye woh jo utha rahe the sawaal <br> Magar sawaal toh ab tak wahi pada hua hai","shayar":"Gair Maa'ruuf"
+         },{"sher":"ye sochkar ki vo khidki se jhaank le shaayad <br>gali mein khelte bacche lada diye maine","shayar":"Idris Azad"},
+         {"sher":"na-umidi maut se kahti hai apna kaam kar <br> aas kahti hai Thahar KHat ka jawab aane ko hai ","shayar":"Fani Badauni"},
+         {"sher":"assmaan pe jaa baithe  yeh khabar nahi tumko <br> arsh k  hilane ko aek aah hi kaafi hai ","shayar":"Ambareen Amber"},
+         {"sher":"na jaane kitne charaghon ko mil gai shohrat <br> ek aaftab ke be-waqt Dub jaane se","shayar":"Iqbal Ashhar "},
+         {"sher":"vo kisī ko yaad kar ke muskurāyā thā udhar <br> aur maiñ nādān ye samjhā ki vo merā huā ","shayar":"Iqbal Ashhar "},
+         {"sher":"le ga.iiñ duur bahut duur havā.eñ jis ko <br> vahī bādal thā mirī pyaas bujhāne vaalā ","shayar":"Iqbal Ashhar "},
+         {"sher":"qasam khuda ki bade tajurbe se kehta hoon<br> gunaah karne mein lazzat to hai sukoon nahin","shayar":"Mehshar Afridi"},
+         {"sher":"doston ka kya hai wo to yun bhi mil jate hain muft <br> roz ek sach bol kar dushman kamane chahiyen ","shayar":"Rajesh Reddy"},
+         {"sher":"ye mohabbat bhi kin dinon mein hui<br>   dil milaane the haath se bhi gaye","shayar":"Kafeel Rana"},
+         {"sher":"aankh aansu ko aise rasta deti hai<br> jaise ret guzarne dariya deti hai <br> koi bhi usko jeet nahi paaya ab tak<br> vaise vo har ek ko mauka deti hai","shayar":"Kafeel Rana"},
+         {"sher":"gaaliyaan di na kisi shaks se mooh maari ki<br> jab bhi dukh pahuncha mujhe maine gazal jaari ki","shayar":"Abbas Tabish"},
+         {"sher":"us ki KHwahish hai ki ab log na roen na hansen <br> be-hisi waqt ki aawaz bana di jae ","shayar":"Pirzada Qasim"},
+         {"sher":"chaman me.n iKHtilaat-e-ra.ng-o-buu se baat bantii hai<br>ham hii ham hai.n to kyaa ham hai.n tum hii tum ho to kyaa tum ho","shayar":"Sarshar Sailani"},
+         {"sher":"chhoTi si baat pe KHush hona mujhe aata tha <br>par baDi baat pe chup rahna tumhi se sikha ","shayar":"Zehra Nigah"},
+         {"sher":"dekhte dekhte ik ghar ke rahne vaale <br> apne apne ḳhānoñ meñ baT jaate haiñ ","shayar":"Zehra Nigah"},
+         {"sher":"charaghon ke badle makan jal rahe hain<br>naya hai zamana nai raushni hai ","shayar":"Khumar Barabankavi"},
+         {"sher":"aql o dil apnī apnī kaheñ jab 'ḳhumār'<br> aql kī suniye dil kā kahā kījiye","shayar":"Khumar Barabankavi"},
+         {"sher":"guzre haiñ mai-kade se jo tauba ke ba.ad ham <br>kuchh duur ādatan bhī qadam Dagmagā.e haiñ","shayar":"Khumar Barabankavi"},
+          {"sher":"raushnī ḳhud bhī charāġhoñ se alag rahtī hai <br> dil meñ jo rahte haiñ vo dil nahīñ hone paate ","shayar":"Saba Akbarabadi"}
+         , {"sher":"mujhe dost kahne wale zara dosti nibha de <br>ye mutalba hai haq ka koi iltija nahin hai ","shayar":"Shakeel Badayuni"}, 
+         {"sher":"dene wale ki mashiyyat pe hai sab kuchh mauquf <br> mangne wale ki hajat nahin dekhi jati ","shayar":"Parveen Shakir"},
+         {"sher":"aks-e-ḳhushbū huuñ bikharne se na roke koī <br> aur bikhar jā.ūñ to mujh ko na sameTe koī ","shayar":"Parveen Shakir"},
+         {"sher":"wo aks ban ke meri chashm-e-tar mein rahta hai <br>ajib shaKHs hai pani ke ghar mein rahta hai ","shayar":"Bismil Sabri"},
+         {"sher":"mai toh aek kagaz ki kashti hun<br>  pehli baarish hi aakhri hai mujhe","shayar":"Tahzeeb Hafi"},
+         {"sher":"mera mausamo se phir gila hi fuzool hai<br>tujhe chuu k bhi mai agar hara nahi horaha","shayar":"Tahzeeb Hafi"},
+         {"sher":"sher auron k bahut yaad hain auron k liye<br> Tu mile toh tujhe sher sunaun apne","shayar":"Gair Maa'ruuf"},
+         {"sher":"Ik parinda abhi udaan men hai <br>Tiir har shaks ki kamaan mei hai","shayar":"Ameer Qazalbash"},
+         {"sher":"le de ke apne pas faqat ek nazar to hai <br> kyun dekhen zindagi ko kisi ki nazar se hum ","shayar":"Sahir Ludhianvi"},
+         {"sher":"vo afsāna jise anjām tak laanā na ho mumkin <br> use ik ḳhūb-sūrat moḌ de kar chhoḌnā achchhā ","shayar":"Sahir Ludhianvi"},
+         {"sher":"ham to samjhe the ki ham bhuul ga.e haiñ un ko <br> kyā huā aaj ye kis baat pe ronā aayā ","shayar":"Sahir Ludhianvi"},
+         {"sher":"dekhā hai zindagī ko kuchh itne qarīb se<br> chehre tamām lagne lage haiñ ajiib se ","shayar":"Sahir Ludhianvi"},
+         {"sher":"hazār barq gire laakh āñdhiyāñ uTTheñ <br> vo phuul khil ke raheñge jo khilne vaale haiñ ","shayar":"Sahir Ludhianvi"},
+         {"sher":"gham aur ḳhushī meñ farq na mahsūs ho jahāñ <br> maiñ dil ko us maqām pe laatā chalā gayā ","shayar":"Sahir Ludhianvi"},
+         {"sher":"kaun rotā hai kisī aur kī ḳhātir ai dost <br>sab ko apnī hī kisī baat pe ronā aayā ","shayar":"Sahir Ludhianvi"},
+         {"sher":"apnī tabāhiyoñ kā mujhe koī ġham nahīñ <br> tum ne kisī ke saath mohabbat nibhā to dī ","shayar":"Sahir Ludhianvi"}
        ]
      }
      
