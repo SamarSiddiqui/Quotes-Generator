@@ -13,7 +13,7 @@
     display: flex;
     align-items: center;
     justify-content: center;
-    transition: background-color 2s ease;
+    transition: background-color 1s ease;
 }
 
 @font-face {
@@ -65,11 +65,11 @@
 }
 
 .clickBox button {
-    border: 3px solid red;
     padding: 10px;
     font-size: 15px;
     color: #fff;
     border-radius: 3px;
     border: none;
     cursor: pointer;
+    transition: background-color 0.5s ease;
 }

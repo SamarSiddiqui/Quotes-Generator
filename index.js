@@ -1,7 +1,7 @@
 const quoteHeading = document.getElementById('quote');
 const authorHeading = document.getElementById('author');
 const button = document.querySelector('button');
-const body = document.querySelector('body');
+const main = document.querySelector('.mainContainer');
 
 randomColor();
 
@@ -24,8 +24,8 @@ myProm.then((data) => {
 });
 
 function randomColor() {
-    const randomColorGen = `rgb(${Math.floor(Math.random() * 255)}, ${Math.floor(Math.random() * 255)}, ${Math.floor(Math.random() * 255)})`;
-    body.style.backgroundColor = randomColorGen;
+    const randomColorGen = `rgb(${Math.floor(Math.random() * 200)}, ${Math.floor(Math.random() * 200)}, ${Math.floor(Math.random() * 200)})`;
+    main.style.backgroundColor = randomColorGen;
     button.style.backgroundColor = randomColorGen;
     quoteHeading.style.color = randomColorGen;
     authorHeading.style.color = randomColorGen;

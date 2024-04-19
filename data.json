@@ -42,7 +42,7 @@
          {"sher": "Bahut nazdiik aatii jaa rahii ho <br>  bichha.Dne kaa iraada kar liyaa kyaa", "shayar": "Jaun Eliya"},
          {"sher": "Ilaaj ye hai ki majbuur kar diyaa jaa.uu.n <br>  vagarna yuu.n to kisii kii nahii.n sunii mai.n ne", "shayar": "Jaun Eliya"},
          {"sher": "Jo guzaarii na jaa sakii ham se <br>  ham ne vo zindagii guzaarii hai", "shayar": "Jaun Eliya"},
-         {"sher": "Mai.n bhii bahut ajiib huu.n itnaa ajiib huu.n <br>  ki bas KHud ko tabaah kar liyaa aur malaal bhii nahii.n", "shayar": "Jaun Eliya"},
+         {"sher": "Mai.n bhii bahut ajiib huu.n itnaa ajiib huu.n ki bas <br> KHud ko tabaah kar liyaa aur malaal bhii nahii.n", "shayar": "Jaun Eliya"},
          {"sher": "Shadiid pyaas thii phir bhii chhu.aa na paanii ko <br>  mai.n dekhtaa rahaa dariyaa tirii ravaanii ko", "shayar": "Shahryar"},
          {"sher": "Vaqt aane de dikhaa de.nge tujhe ai aasmaa.n <br>  ham abhii se kyuu.n bataa.e.n kyaa hamaare dil me.n hai", "shayar": "Bismil Azimabadi"},
          {"sher": "Mohabbat karne vaale kam na ho.nge <br>  tirii mahfil me.n lekin ham na ho.nge", "shayar": "Hafeez Hoshiarpuri"},
@@ -283,7 +283,19 @@
        {"sher": "mere TuuTe hausle ke par nikalte dekh kar <br>us ne diivaaro.n ko apnii aur uu.nchaa kar diyaa",
          "shayar": "Shahid Kabir"},
        {"sher": "mai.n to is vaaste chup huu.n ki tamaashaa na bane<br> tuu samajhtaa hai mujhe tujh se gilaa kuchh bhii nahii.n",
-         "shayar": "Adil Mansuri"}
+         "shayar": "Adil Mansuri"},
+        {"sher":"dil na-ummed to nahi nakaam hi to hai <br> lambhi h ghum ki sham magar sham hi to hai.","shayar":"Faiz Ahmad Faiz"
+
+         },
+         {"sher":"umr bhar uthaya bojh us keel ne  aur log tareef tasveer ki karte rahe","shayar":"Piyush Mishra"
+
+         },
+         {"sher":"ek tarz-e-taghaful hai. so wo unko mubarak <br> Ek tarz-e-tamanna hai. so hum karte rahenge","shayar":"Faiz Ahmad Faiz"
+
+         },
+         {"sher":"","shayar":""
+
+         }
        ]
      }
      
